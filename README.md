@@ -7,6 +7,17 @@
 <h1 align="center"><strong>Advanced Linux utilities for automation, shell scripting, system administration and command-line workflows</strong></h1>
 
 
+
+
+
+
+<br>
+
+
+
+
+
+
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LINUX3.jpg" alt="Linux Screenshot" width="100%">
 
 
@@ -15,9 +26,8 @@
 
 
 
-
-
-
+<br>
+<br>
 <br>
 
 
